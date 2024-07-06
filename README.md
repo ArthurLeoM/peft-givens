@@ -10,8 +10,6 @@ Parameter Efficient Quasi-Orthogonal Fine-Tuning via Givens Rotation, presented 
 
 arXiv: https://arxiv.org/abs/2404.04316
 
-OpenReview: https://arxiv.org/abs/2404.04316
-
 **Thanks for your interest in our work! If our work helps, please don't forget to cite us!🌟**
 
 ```
